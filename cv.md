@@ -23,7 +23,8 @@ alert( result );
 ## Education
 * acdsee degree - 2021
 * Udemy course 
- ++ Web developer
+ + Web developer
+ - awda
 
 ## English
 A1 english level
