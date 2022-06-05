@@ -6,7 +6,6 @@
 ## About Me: 
 I want to learn frontend with RS school.
 
-====
 ## Sckills: 
 * HTML5
 * CSS3
