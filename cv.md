@@ -10,7 +10,7 @@ I want to learn frontend with RS school.
 * HTML5
 * CSS3
 * JavaScript
-====
+
 ## Code Example
 ```
 function sum(a, b) {
@@ -23,7 +23,7 @@ alert( result );
 ## Education
 * acdsee degree - 2021
 * Udemy course 
- + Web developer
+ ++ Web developer
 
 ## English
 A1 english level
